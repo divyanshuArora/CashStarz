@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220032152720",
+    "firebase_url": "https://cashstarz-eac5e.firebaseio.com",
+    "project_id": "cashstarz-eac5e",
+    "storage_bucket": "cashstarz-eac5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220032152720:android:c2020587cd9a624d82d415",
+        "android_client_info": {
+          "package_name": "com.developers.CrbClub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220032152720-gmmnsridvij6gticia01hehmvd3682da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developers.CrbClub",
+            "certificate_hash": "f58b9bc2400ea878f760d7ee03ed965286ec9a92"
+          }
+        },
+        {
+          "client_id": "220032152720-hu21qq6pmeluu2d9ick6762iu3s00euo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6P5Jctg61Hgi7G1xt7UAlcJW6um8_NvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220032152720-hu21qq6pmeluu2d9ick6762iu3s00euo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

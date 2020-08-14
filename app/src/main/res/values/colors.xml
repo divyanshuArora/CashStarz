@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <!-- colorAccent is used as the default value for colorControlActivated,
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/colorPrimary</item>
+
+        <!--        <item name="colorSwitchThumbNormal">@color/light_purple</item>-->
+    </style>
+
+    <color name="colorPrimary">#4e73df</color>
+    <color name="colorPrimaryDark">#4e73df</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white_transparent">#00FFFFFF</color>
+</resources>
